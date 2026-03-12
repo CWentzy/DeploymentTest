@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wentz\\OneDrive\\Desktop\\test\\TestApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48B44491-F984-1448-F739-3543BA32EB39}|testapp.client\\testapp.client.esproj|c:\\users\\wentz\\onedrive\\desktop\\test\\testapp\\testapp.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{48B44491-F984-1448-F739-3543BA32EB39}|testapp.client\\testapp.client.esproj|solutionrelative:testapp.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D137AF44-23B1-E51E-B93F-9A019BD8FC8C}|TestApp.Server\\TestApp.Server.csproj|c:\\users\\wentz\\onedrive\\desktop\\test\\testapp\\testapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D137AF44-23B1-E51E-B93F-9A019BD8FC8C}|TestApp.Server\\TestApp.Server.csproj|solutionrelative:testapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D137AF44-23B1-E51E-B93F-9A019BD8FC8C}|TestApp.Server\\TestApp.Server.csproj|c:\\users\\wentz\\onedrive\\desktop\\test\\testapp\\testapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D137AF44-23B1-E51E-B93F-9A019BD8FC8C}|TestApp.Server\\TestApp.Server.csproj|solutionrelative:testapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Users\\wentz\\OneDrive\\Desktop\\test\\TestApp\\testapp.client\\vite.config.ts",
+              "RelativeDocumentMoniker": "testapp.client\\vite.config.ts",
+              "ToolTip": "C:\\Users\\wentz\\OneDrive\\Desktop\\test\\TestApp\\testapp.client\\vite.config.ts",
+              "RelativeToolTip": "testapp.client\\vite.config.ts",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-12T03:55:36.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\wentz\\OneDrive\\Desktop\\test\\TestApp\\TestApp.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TestApp.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\wentz\\OneDrive\\Desktop\\test\\TestApp\\TestApp.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TestApp.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-12T03:48:16.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wentz\\OneDrive\\Desktop\\test\\TestApp\\TestApp.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "TestApp.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\wentz\\OneDrive\\Desktop\\test\\TestApp\\TestApp.Server\\appsettings.json",
+              "RelativeToolTip": "TestApp.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-12T03:48:11.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
